@@ -30,15 +30,6 @@ This project is a turn-based chess-like game implemented with a server-client ar
 
 ### Screenshots
 
-![Game Board](path/to/screenshot1.png)
-*Description: The main game board showing the 5x5 grid and player pieces.*
-
-![Move History](path/to/screenshot2.png)
-*Description: The move history log showing all moves made during the game.*
-
-![Game Over](path/to/screenshot3.png)
-*Description: The game over screen showing the winner and options to start a new game.*
-
 
 ## Features
 
