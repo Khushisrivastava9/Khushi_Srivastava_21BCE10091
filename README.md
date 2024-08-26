@@ -33,10 +33,10 @@ This project is a turn-based chess-like game implemented with a server-client ar
 ![Game Board](https://github.com/Khushisrivastava9/Khushi_Srivastava_21BCE10091/blob/main/Screenshots/gameini.png)
 **5x5 Advanced Chess Game**
 
-![Move History](https://github.com/Khushisrivastava9/Khushi_Srivastava_21BCE10091/blob/main/Screenshots/movehistory.png)
+![Move History](https://github.com/Khushisrivastava9/Khushi_Srivastava_21BCE10091/blob/main/Screenshots/movehistory.png)  
 **Description: This is how the move history gets updated while playing the game.**
 
-![Game Over](https://github.com/Khushisrivastava9/Khushi_Srivastava_21BCE10091/blob/main/Screenshots/gamewin.png)
+![Game Over](https://github.com/Khushisrivastava9/Khushi_Srivastava_21BCE10091/blob/main/Screenshots/gamewin.png)  
 **Description: This is how the score gets updated for the player who wins the game.**
 
 ## Features
