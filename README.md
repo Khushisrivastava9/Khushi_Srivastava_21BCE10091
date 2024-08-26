@@ -254,6 +254,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
 ----
-## Special Thanks ❤️
+## Special Thanks
 
 I would like to extend my gratitude to [Hit Wicket](https://www.hitwicket.com/) for giving me the opportunity to work on this project as a part of their Qualifier Round assignment for the Software Engineer role. I appreciate the time and effort they took to evaluate my skills and provide me with a chance to showcase my abilities. Thank you for the experience.
