@@ -29,8 +29,8 @@ This project is a turn-based chess-like game implemented with a server-client ar
 4. **Game End**: The game ends when one player eliminates all of the opponent's pieces, and the winner is announced.
 
 ### Screenshots
-
-
+![Entry](https://github.com/Khushisrivastava9/Khushi_Srivastava_21BCE10091/blob/main/Screenshots/game.png)
+*5x5 Advanced Chess Game*
 ## Features
 
 ### Core Game Logic
